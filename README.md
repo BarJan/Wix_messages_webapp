@@ -1,4 +1,4 @@
-# Wix_messeges_webapp
+# Wix_messages_webapp
 wix web-messenger-application
 https://barjanah.wixsite.com/mysite
 A web-application for sending and reading messeges.
